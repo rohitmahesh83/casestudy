@@ -1,0 +1,91 @@
+/* <--------------------------Universal--------------------------> */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-image: url('header.jpg');
+    background-size: contain;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.navi > a{
+    text-decoration: none;
+    color:white;
+
+}
+.navi > a:hover{
+    color:red;
+    
+}
+.navi{
+    padding-top: 270px;
+    font-size: x-large;
+    font-weight: bolder;
+    text-align: right;
+    padding-right: 100px;
+}
+body{
+    background-color: black;
+}
+.about{
+    color:white;
+    
+
+}
+/* .about >h1{
+    border-bottom: 9px,solid,white;
+} */
+.heading{
+    color:white;
+    border-bottom: 1px white solid;
+    margin-top: 100px;
+    padding-left: 125px;
+    padding-bottom: 5px;
+}
+.about >p{
+    padding-left: 300px;
+    padding-top:100px ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+.skill{
+    color:white
+}
+.rating >table{
+    padding-top: 100px;
+    padding-left: 300px;
+    font-size: x-large
+}
+.details{
+    color:white;
+    padding-top: 100px;
+    padding-left: 300px;
+}
+.list{
+    padding-bottom: 25px;
+    font-size: large;
+}
+.contact{
+    font-size: 25px;
+}
+.contact >form{
+    padding-left: 400px;
+    padding-top: 25px;
+}
+
+.footer{
+    background-color:white;
+    padding: 5px;
+}
+.fimg{
+    width: 2%;
+    height:2% ;
+    margin-left: 300px;
+    
+}
+#foot{
+    text-align: center;
+    padding-top: 10px;
+    font-weight: lighter;
+}
